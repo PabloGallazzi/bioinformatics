@@ -16,3 +16,6 @@ hs_err_pid*
 
 data/output/*
 !data/output/.gitkeep
+
+blast/*
+!blast/ncbi-blast-2.6.0+

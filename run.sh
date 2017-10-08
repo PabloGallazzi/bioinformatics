@@ -4,6 +4,8 @@
 
 echo "Starting run..."
 
+./install.sh
+
 java -jar Ex1-jar-with-dependencies.jar
 java -jar Ex2-jar-with-dependencies.jar
 java -jar Ex2Local-jar-with-dependencies.jar
