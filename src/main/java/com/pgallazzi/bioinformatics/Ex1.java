@@ -18,8 +18,9 @@ public class Ex1 {
 
     public static void main(String[] args) {
 
-        File[] listOfFiles = new File(INPUT_FOLDER).listFiles();
-        listOfFiles = listOfFiles != null ? listOfFiles : new File[0];
+        System.out.println("Running Ex1!!!");
+
+        final File[] listOfFiles = new File(INPUT_FOLDER).listFiles() != null ? new File(INPUT_FOLDER).listFiles() : new File[0];
 
         Arrays.stream(listOfFiles).filter(file -> file.isFile() && file.getName().startsWith(EX1) && file.getName().endsWith(GB)).forEach(file -> {
             try {

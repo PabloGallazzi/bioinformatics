@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 ./clean.sh
-echo "Starting build..."
+echo "Starting build (this can take a while)..."
 mvn clean >/dev/null
 mvn clean compile assembly:single -Dexercise=Ex1 >/dev/null
 mv target/Ex1-jar-with-dependencies.jar . >/dev/null
