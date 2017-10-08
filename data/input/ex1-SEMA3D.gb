@@ -1,0 +1,391 @@
+LOCUS       NM_152754               6276 bp    mRNA    linear   PRI 01-OCT-2017
+DEFINITION  Homo sapiens semaphorin 3D (SEMA3D), mRNA.
+ACCESSION   NM_152754
+VERSION     NM_152754.2
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 6276)
+  AUTHORS   Wang Z, Ding M, Qian N, Song B, Yu J, Tang J and Wang J.
+  TITLE     Decreased expression of semaphorin 3D is associated with genesis
+            and development in colorectal cancer
+  JOURNAL   World J Surg Oncol 15 (1), 67 (2017)
+   PUBMED   28320475
+  REMARK    GeneRIF: Low SEMA3D expression is associated with colorectal
+            cancer.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 6276)
+  AUTHORS   Martin-Sierra C, Gallego-Martinez A, Requena T, Frejo L,
+            Batuecas-Caletrio A and Lopez-Escamez JA.
+  TITLE     Variable expressivity and genetic heterogeneity involving DPT and
+            SEMA3D genes in autosomal dominant familial Meniere's disease
+  JOURNAL   Eur. J. Hum. Genet. 25 (2), 200-207 (2017)
+   PUBMED   27876815
+  REMARK    GeneRIF: Novel mutation in SEMA3D segregates with the complete
+            phenotype with variable expressivity in two pedigrees with
+            autosomal dominant familial Meniere's disease.
+REFERENCE   3  (bases 1 to 6276)
+  AUTHORS   McGeachie MJ, Wu AC, Tse SM, Clemmer GL, Sordillo J, Himes BE,
+            Lasky-Su J, Chase RP, Martinez FD, Weeke P, Shaffer CM, Xu H, Denny
+            JC, Roden DM, Panettieri RA Jr, Raby BA, Weiss ST and Tantisira KG.
+  TITLE     CTNNA3 and SEMA3D: Promising loci for asthma exacerbation
+            identified through multiple genome-wide association studies
+  JOURNAL   J. Allergy Clin. Immunol. 136 (6), 1503-1510 (2015)
+   PUBMED   26073756
+  REMARK    GeneRIF: CTNNA3 and SEMA3D: Promising loci for asthma exacerbation
+            identified through multiple genome-wide association studies
+REFERENCE   4  (bases 1 to 6276)
+  AUTHORS   Binch AL, Cole AA, Breakwell LM, Michael AL, Chiverton N, Creemers
+            LB, Cross AK and Le Maitre CL.
+  TITLE     Class 3 semaphorins expression and association with innervation and
+            angiogenesis within the degenerate human intervertebral disc
+  JOURNAL   Oncotarget 6 (21), 18338-18354 (2015)
+   PUBMED   26286962
+  REMARK    GeneRIF: Data show significant increases in semaphorin3C, 3D and
+            their receptor neuropilin-2 in degenerate samples which were shown
+            to contain nerves and blood vessels, compared to non-degenerate
+            samples without nerves and blood vessels.
+REFERENCE   5  (bases 1 to 6276)
+  AUTHORS   Jiang Q, Arnold S, Heanue T, Kilambi KP, Doan B, Kapoor A, Ling AY,
+            Sosa MX, Guy M, Jiang Q, Burzynski G, West K, Bessling S, Griseri
+            P, Amiel J, Fernandez RM, Verheij JB, Hofstra RM, Borrego S,
+            Lyonnet S, Ceccherini I, Gray JJ, Pachnis V, McCallion AS and
+            Chakravarti A.
+  TITLE     Functional loss of semaphorin 3C and/or semaphorin 3D and their
+            epistatic interaction with ret are critical to Hirschsprung disease
+            liability
+  JOURNAL   Am. J. Hum. Genet. 96 (4), 581-596 (2015)
+   PUBMED   25839327
+  REMARK    GeneRIF: Functional loss of semaphorin 3C and/or semaphorin 3D and
+            their epistatic interaction with ret are critical to Hirschsprung
+            disease liability.
+REFERENCE   6  (bases 1 to 6276)
+  AUTHORS   Fujii T, Uchiyama H, Yamamoto N, Hori H, Tatsumi M, Ishikawa M,
+            Arima K, Higuchi T and Kunugi H.
+  TITLE     Possible association of the semaphorin 3D gene (SEMA3D) with
+            schizophrenia
+  JOURNAL   J Psychiatr Res 45 (1), 47-53 (2011)
+   PUBMED   20684831
+  REMARK    GeneRIF: This study provided strong evidence that SEMA3D confers
+            susceptibility to schizophrenia, which could contribute to the
+            neurodevelopmental impairments in the disorder.
+            GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   7  (bases 1 to 6276)
+  AUTHORS   Gregorio SP, Sallet PC, Do KA, Lin E, Gattaz WF and Dias-Neto E.
+  TITLE     Polymorphisms in genes involved in neurodevelopment may be
+            associated with altered brain morphology in schizophrenia:
+            preliminary evidence
+  JOURNAL   Psychiatry Res 165 (1-2), 1-9 (2009)
+   PUBMED   19054571
+  REMARK    GeneRIF: Observational study of gene-disease association. (HuGE
+            Navigator)
+REFERENCE   8  (bases 1 to 6276)
+  AUTHORS   Kigel B, Varshavsky A, Kessler O and Neufeld G.
+  TITLE     Successful inhibition of tumor development by specific class-3
+            semaphorins is associated with expression of appropriate semaphorin
+            receptors by tumor cells
+  JOURNAL   PLoS ONE 3 (9), E3287 (2008)
+   PUBMED   18818766
+  REMARK    GeneRIF: Sema3D inhibits tumor development from MDA-MB-231 and
+            MDA-MB-435 cancer cells. It inhibits tumor angiogenesis in all of
+            the formed tumors.
+            Publication Status: Online-Only
+REFERENCE   9  (bases 1 to 6276)
+  AUTHORS   Lallier TE.
+  TITLE     Semaphorin profiling of periodontal fibroblasts and osteoblasts
+  JOURNAL   J. Dent. Res. 83 (9), 677-682 (2004)
+   PUBMED   15329371
+REFERENCE   10 (bases 1 to 6276)
+  AUTHORS   Clark HF, Gurney AL, Abaya E, Baker K, Baldwin D, Brush J, Chen J,
+            Chow B, Chui C, Crowley C, Currell B, Deuel B, Dowd P, Eaton D,
+            Foster J, Grimaldi C, Gu Q, Hass PE, Heldens S, Huang A, Kim HS,
+            Klimowski L, Jin Y, Johnson S, Lee J, Lewis L, Liao D, Mark M,
+            Robbie E, Sanchez C, Schoenfeld J, Seshagiri S, Simmons L, Singh J,
+            Smith V, Stinson J, Vagts A, Vandlen R, Watanabe C, Wieand D, Woods
+            K, Xie MH, Yansura D, Yi S, Yu G, Yuan J, Zhang M, Zhang Z, Goddard
+            A, Wood WI, Godowski P and Gray A.
+  TITLE     The secreted protein discovery initiative (SPDI), a large-scale
+            effort to identify novel human secreted and transmembrane proteins:
+            a bioinformatics assessment
+  JOURNAL   Genome Res. 13 (10), 2265-2270 (2003)
+   PUBMED   12975309
+  REMARK    Erratum:[Genome Res. 2003 Dec;13(12):2759]
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AY358937.1, BC029590.1 and
+            BX648652.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Jan 30, 2004 this sequence version replaced gi:22749476.
+            
+            Summary: This gene encodes a member of the semaphorin III family of
+            secreted signaling proteins that are involved in axon guidance
+            during neuronal development. The encoded protein contains an
+            N-terminal Sema domain, an immunoglobulin like domain and a
+            C-terminal basic domain. The protein encoded by this gene binds
+            neuropilin and plays an important role in cardiovascular
+            development. [provided by RefSeq, Aug 2016].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            CDS exon combination :: AY358937.1 [ECO:0000331]
+            RNAseq introns       :: mixed/partial sample support SAMEA1965299,
+                                    SAMEA1966682 [ECO:0000350]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-1617              AY358937.1         67-1683
+            1618-2411           BC029590.1         704-1497
+            2412-3805           AY358937.1         2478-3871
+            3806-6276           BX648652.1         1163-3633
+FEATURES             Location/Qualifiers
+     source          1..6276
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="7"
+                     /map="7q21.11"
+     gene            1..6276
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /note="semaphorin 3D"
+                     /db_xref="GeneID:223117"
+                     /db_xref="HGNC:HGNC:10726"
+                     /db_xref="MIM:609907"
+     exon            1..191
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     misc_feature    8..10
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /note="upstream in-frame stop codon"
+     CDS             41..2374
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /note="collapsin 2; sema domain, immunoglobulin domain
+                     (Ig), short basic domain, secreted, (semaphorin) 3D"
+                     /codon_start=1
+                     /product="semaphorin-3D precursor"
+                     /protein_id="NP_689967.2"
+                     /db_xref="CCDS:CCDS34676.1"
+                     /db_xref="GeneID:223117"
+                     /db_xref="HGNC:HGNC:10726"
+                     /db_xref="MIM:609907"
+                     /translation="MNANKDERLKARSQDFHLFPALMMLSMTMLFLPVTGTLKQNIPR
+                     LKLTYKDLLLSNSCIPFLGSSEGLDFQTLLLDEERGRLLLGAKDHIFLLSLVDLNKNF
+                     KKIYWPAAKERVELCKLAGKDANTECANFIRVLQPYNKTHIYVCGTGAFHPICGYIDL
+                     GVYKEDIIFKLDTHNLESGRLKCPFDPQQPFASVMTDEYLYSGTASDFLGKDTAFTRS
+                     LGPTHDHHYIRTDISEHYWLNGAKFIGTFFIPDTYNPDDDKIYFFFRESSQEGSTSDK
+                     TILSRVGRVCKNDVGGQRSLINKWTTFLKARLICSIPGSDGADTYFDELQDIYLLPTR
+                     DERNPVVYGVFTTTSSIFKGSAVCVYSMADIRAVFNGPYAHKESADHRWVQYDGRIPY
+                     PRPGTCPSKTYDPLIKSTRDFPDDVISFIKRHSVMYKSVYPVAGGPTFKRINVDYRLT
+                     QIVVDHVIAEDGQYDVMFLGTDIGTVLKVVSISKEKWNMEEVVLEELQIFKHSSIILN
+                     MELSLKQQQLYIGSRDGLVQLSLHRCDTYGKACADCCLARDPYCAWDGNACSRYAPTS
+                     KRRARRQDVKYGDPITQCWDIEDSISHETADEKVIFGIEFNSTFLECIPKSQQATIKW
+                     YIQRSGDEHREELKPDERIIKTEYGLLIRSLQKKDSGMYYCKAQEHTFIHTIVKLTLN
+                     VIENEQMENTQRAEHEEGKVKDLLAESRLRYKDYIQILSSPNFSLDQYCEQMWHREKR
+                     RQRNKGGPKWKHMQEMKKKRNRRHHRDLDELPRAVAT"
+     sig_peptide     41..148
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="{ECO:0000255}; propagated from UniProtKB/Swiss-Prot
+                     (O95025.2)"
+     mat_peptide     149..2371
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /product="Semaphorin-3D"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (O95025.2)"
+     exon            192..352
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            353..415
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            416..535
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            536..629
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            630..758
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            759..901
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            902..1016
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1017..1086
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1087..1231
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1232..1454
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1455..1543
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1544..1585
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1586..1743
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1744..1808
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1809..1948
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     exon            1949..6261
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /inference="alignment:Splign:2.0.8"
+     STS             3621..3744
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+                     /standard_name="RH48549"
+                     /db_xref="UniSTS:10096"
+     regulatory      6224..6229
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+     polyA_site      6254
+                     /gene="SEMA3D"
+                     /gene_synonym="coll-2; Sema-Z2"
+ORIGIN      
+        1 attaaattaa caccatttga aagagaacat tgttttcatc atgaatgcta ataaagatga
+       61 aagacttaaa gccagaagcc aagattttca cctttttcct gctttgatga tgctaagcat
+      121 gaccatgttg tttcttccag tcactggcac tttgaagcaa aatattccaa gactcaagct
+      181 aacctacaaa gacttgctgc tttcaaatag ctgtattccc tttttgggtt catcagaagg
+      241 actggatttt caaactcttc tcttagatga ggaaagaggc aggctgctct tgggagccaa
+      301 agaccacatc tttctactca gtctggttga cttaaacaaa aattttaaga agatttattg
+      361 gcctgctgca aaggaacggg tggaattatg taaattagct gggaaagatg ccaatacaga
+      421 atgtgcaaat ttcatcagag tacttcagcc ctataacaaa actcacatat atgtgtgtgg
+      481 aactggagca tttcatccaa tatgtgggta tattgatctt ggagtctaca aggaggatat
+      541 tatattcaaa ctagacacac ataatttgga gtctggcaga ctgaaatgtc ctttcgatcc
+      601 tcagcagcct tttgcttcag taatgacaga tgagtacctc tactctggaa cagcttctga
+      661 tttccttggc aaagatactg cattcactcg atcccttggg cctactcatg accaccacta
+      721 catcagaact gacatttcag agcactactg gctcaatgga gcaaaattta ttggaacttt
+      781 cttcatacca gacacctaca atccagatga tgataaaata tatttcttct ttcgtgaatc
+      841 atctcaagaa ggcagtacct ccgataaaac catcctttct cgagttggaa gagtttgtaa
+      901 gaatgatgta ggaggacaac gcagcctgat aaacaagtgg acgacttttc ttaaggccag
+      961 actgatttgc tcaattcctg gaagtgatgg ggcagatact tactttgatg agcttcaaga
+     1021 tatttattta ctccccacaa gagatgaaag aaatcctgta gtatatggag tctttactac
+     1081 aaccagctcc atcttcaaag gctctgctgt ttgtgtgtat agcatggctg acatcagagc
+     1141 agtttttaat ggtccatatg ctcataagga aagtgcagac catcgttggg tgcagtatga
+     1201 tgggagaatt ccttatccac ggcctggtac atgtccaagc aaaacctatg acccactgat
+     1261 taagtccacc cgagattttc cagatgatgt catcagtttc ataaagcggc actctgtgat
+     1321 gtataagtcc gtatacccag ttgcaggagg accaacgttc aagagaatca atgtggatta
+     1381 cagactgaca cagatagtgg tggatcatgt cattgcagaa gatggccagt acgatgtaat
+     1441 gtttcttgga acagacattg gaactgtcct caaagttgtc agcatttcaa aggaaaagtg
+     1501 gaatatggaa gaggtagtgc tggaggagtt gcagatattc aagcactcat caatcatctt
+     1561 gaacatggaa ttgtctctga agcagcaaca attgtacatt ggttcccgag atggattggt
+     1621 tcagctctcc ttgcacagat gcgacactta tgggaaagct tgcgcagact gttgtcttgc
+     1681 cagagacccc tactgtgcct gggatggaaa tgcatgctct cgatatgctc ctacttctaa
+     1741 aaggagagct agacgccaag atgtaaaata tggcgaccca atcacccagt gctgggacat
+     1801 cgaagacagc attagtcatg aaactgctga tgaaaaggtg atttttggca ttgaatttaa
+     1861 ctcaaccttt ctggaatgta tacctaaatc ccaacaagca actattaaat ggtatatcca
+     1921 gaggtcaggg gatgagcatc gagaggagtt gaagcccgat gaaagaatca tcaaaacgga
+     1981 atatgggcta ctgattcgaa gtttgcagaa gaaggattct gggatgtatt actgcaaagc
+     2041 ccaggagcac actttcatcc acaccatagt gaagctgact ttgaatgtca ttgagaatga
+     2101 acagatggaa aatacccaga gggcagagca tgaggagggg aaggtcaagg atctattggc
+     2161 tgagtcacgg ttgagataca aagactacat ccaaatcctt agcagcccaa acttcagcct
+     2221 cgaccagtac tgcgaacaga tgtggcacag ggagaagcgg agacagagaa acaagggggg
+     2281 cccaaagtgg aagcacatgc aggaaatgaa gaagaaacga aatcgaagac atcacagaga
+     2341 cctggatgag ctccctagag ctgtagccac gtagttttct acttaattta aagaaaagaa
+     2401 ttccttacct ataaaaacat tgccttctgt tttgtatatc ccttatagta attcataaat
+     2461 gcttcccatg gagttttgct aaggcacaag acaataatct gaataagaca atatgtgatg
+     2521 aatataagaa agggcaaaaa attcatttga accagttttc caagaacaaa tcttgcacaa
+     2581 gcaaagtata agaattatcc taaaaatagg gggtttacag ttgtaaatgt tttatgtttt
+     2641 gagttttgga atttattgtc atgtaaatag ttgagctaag caagccccga atttgatagt
+     2701 gtataaggtg ctttattccc tcgaatgtcc attaagcatg gaatttacca tgcagttgtg
+     2761 ctatgttctt atgaacagat atatcattcc tattgagaac cagctacctt gtggtaggga
+     2821 ataagaggtc agacacaaat taagacaact cccattatca acaggaactt tctcagtgag
+     2881 ccattcactc ctggagaatg gtataggaat ttggagaggt gcattatttc tttctggcca
+     2941 ctggggttaa atttagtgta ctacaacatt gatttactga agggcactaa tgtttccccc
+     3001 aggatttcta ttgactagtc aggagtaaca ggttcacaga gagaagttgg tgcttagtta
+     3061 tgtgtttttt agagtatata ctaagctcta cagggacaga atgcttaata aatactttaa
+     3121 taagatatgg gaaaatattt taataaaaca aggaaaacat aatgatgtat aatgcatcct
+     3181 gatgggaagg catgcagatg ggatttgtta gaagacagaa ggaaagacag ccataaattc
+     3241 tggctttggg gaaaactcat atccccatga aaaggaagaa caatcacaaa taaagtgaga
+     3301 gtaatgtaat ggagctcttt tcactagggt ataagtagct gccaatttgt aattcatctg
+     3361 ttaaaaaaaa tctagattat aacaaactgc tagcaaaatc tgaggaaaca taaattcttc
+     3421 tgaagaatca taggaagagt agacatttta tttataacca atgatatttc agtatatatt
+     3481 ttctctcttt taaaaaatat ttatcatact ctgtatatta tttcttttta ctgcctttat
+     3541 tctctcctgt atattggatt ttgtgattat atttgagtga ataggagaaa acaatatata
+     3601 acacacagag aattaagaaa atgacatttc tggggagtgg ggatatatat ttgttgaata
+     3661 acagaacgag tgtaaaattt taacaacgga aagggttaaa ttaactcttt gacatcttca
+     3721 ctcaaccttt tctcattgct gagttaatct gttgtaattg tagtattgtt tttgtaattt
+     3781 aacaataaat aagcctgcta catgtaaaaa gaaccaaact cacaatatta acataaacat
+     3841 ctttcatatt ttgttagtac tttcaaatgt tttcaatttg actttccctc tgaatatgca
+     3901 tggtgtgttt cctgtctgtt taagcagaac tcacctttcc ttcttgtaac acagaaccct
+     3961 tagccttctt ctgttttgcc ttttcacgcc ctttatagtg tgaaatgaaa aattagtcac
+     4021 ttcctcacat ggaaggcagc ttttcagaaa ataacagaca ttgctcgttt ctcatgcatt
+     4081 ctacatatct tgaaagaaaa gtctgtgaga aaaccctgtg attagagggc aacttaatgc
+     4141 aagatctgtg gctctatgtt gagagcattc tctctctgtt atttttattt tatttgcatt
+     4201 gcttacctat ctcaaagtag tcaaactgat atatgagatt gagtactccc ttttgatatt
+     4261 atactgatga atatttgtag gtgtttcact ataaggaaca gctaaggaat aattttaata
+     4321 aaagtgaacc agaacaaatc actcatttaa aaagtaattc agaagaacag tgtggcatga
+     4381 tcagacttct aattgaatag cgtaacaaca gtgtttgtaa ttatagattt gcttggacaa
+     4441 aatattccag gaactcatag cgagctcaaa gcaattaagt gggaacattt ttaatttaaa
+     4501 aaaaatttcc aaatatttgt gggtccgaca gtaatgatca aaatatgaat gactttggaa
+     4561 aatttacatg aagctcaagt gttaggattg acttatgaaa ataaatttta tttctatcca
+     4621 aatttgaatg tccaaaccat tttttagtta cttctttcta atcctagtta ttcagacaaa
+     4681 atttggaaac ttattttatg accacatcta atattctggc tgctttggat acaatactct
+     4741 tgatttatga taattagtta aaatatatta aaaatattat tagtaaaata aaatttcaca
+     4801 caataaaaaa caacatagag tacacatatt tatatgtatt tttaaagata aagaatatct
+     4861 aaaatgtgtt tttttcttag ctttttagtt gtctagaaca tttagagaaa gagtatgaat
+     4921 atattaaatc cacaaacaca ctatatactt cctcaccact gactatttta tcaaatttgc
+     4981 cttaaaataa tgaaaaagaa aagtatagtt aatggtttca aatatgctaa gaaattgact
+     5041 ctgcggaggg gatcttaaaa tgcctgttta ctcatgtttt cgtatttttc ttgtctctaa
+     5101 tacttttgtc tttgtctgcc ttgtgtgttc ttttctgaat ttcatttcag caatttatgc
+     5161 tgctaaatag aatcccgcat gtctgcattc atttacattc aacttattgt aaattttgag
+     5221 attttattta gaaatgaatt gtctaattaa tttatgtaga gtcctttttt ccaaagagct
+     5281 caaaacacta catccacatt attgactttt ggaaaccaac caaattactt aagaaatgga
+     5341 aaagtagtca cagagaaatt tagtaatttg caaaagccac aacagtagtg gaagaattaa
+     5401 aattcataaa gtctcatcat tctgttggct aaaataatgc tctttacaat atgctggcta
+     5461 caaaatggtc ttactcttga attttgcttt tggttcatat tttggttctt catattctag
+     5521 tatgttttgt tcctgctgaa ttttacagac tcagctaaac aataagttat tagtagtcac
+     5581 ttgttttcat tatcataatt gaatttccaa gaacaacttg atatcattca gctgtccaaa
+     5641 aaataataag agcattcatt aaatactgat tttcttaaac ttaaatgttg tatttcatat
+     5701 ttatttatat aatacaaatg gaaatcaaaa ctgaaatagc ctccctttag aatgtcacat
+     5761 ttttcttaga aaacattttg gaattggtta accttattgg gaatggataa tttagaaaca
+     5821 aaccaaaaaa aaaaaaagat atttgaagtg tttttatagg agatgtattt ttatcatagt
+     5881 aaatgatcac aattttaaat aattcatctt acaagtcagg taaaataaaa tcgattccca
+     5941 gattccatac attaggagtg caaagacagg atcatacaca tgacttatac ctctcattta
+     6001 aatattttat agtataaagt atttatggaa agggtttgag atagatgatt tttgggaaag
+     6061 ggcaaaatgt gtcagatgcc ctagttaatc atgtaattta attctggtat tgtgagtggt
+     6121 tagcaatcaa ttttgaattt ataattctgc tattttaaaa gaaatgtagt cttgtagtat
+     6181 gaaataatta aaaattgtta aatgtatatt ttggttgtat tataataaaa tgcaaacatg
+     6241 actgttctat gattataaaa aaaaaaaaaa aaaaaa
+//
+

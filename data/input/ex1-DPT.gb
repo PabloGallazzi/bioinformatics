@@ -1,0 +1,292 @@
+LOCUS       NM_001937               1749 bp    mRNA    linear   PRI 02-OCT-2017
+DEFINITION  Homo sapiens dermatopontin (DPT), mRNA.
+ACCESSION   NM_001937
+VERSION     NM_001937.4
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1749)
+  AUTHORS   Martin-Sierra C, Gallego-Martinez A, Requena T, Frejo L,
+            Batuecas-Caletrio A and Lopez-Escamez JA.
+  TITLE     Variable expressivity and genetic heterogeneity involving DPT and
+            SEMA3D genes in autosomal dominant familial Meniere's disease
+  JOURNAL   Eur. J. Hum. Genet. 25 (2), 200-207 (2017)
+   PUBMED   27876815
+  REMARK    GeneRIF: Novel mutation in DPT segregates with the complete
+            phenotype with variable expressivity in two pedigrees with
+            autosomal dominant familial Meniere's disease.
+REFERENCE   2  (bases 1 to 1749)
+  AUTHORS   Barallobre-Barreiro J, Gupta SK, Zoccarato A, Kitazume-Taneike R,
+            Fava M, Yin X, Werner T, Hirt MN, Zampetaki A, Viviano A, Chong M,
+            Bern M, Kourliouros A, Domenech N, Willeit P, Shah AM, Jahangiri M,
+            Schaefer L, Fischer JW, Iozzo RV, Viner R, Thum T, Heineke J,
+            Kichler A, Otsu K and Mayr M.
+  TITLE     Glycoproteomics Reveals Decorin Peptides With Anti-Myostatin
+            Activity in Human Atrial Fibrillation
+  JOURNAL   Circulation 134 (11), 817-832 (2016)
+   PUBMED   27559042
+REFERENCE   3  (bases 1 to 1749)
+  AUTHORS   Barallobre-Barreiro J, Oklu R, Lynch M, Fava M, Baig F, Yin X,
+            Barwari T, Potier DN, Albadawi H, Jahangiri M, Porter KE, Watkins
+            MT, Misra S, Stoughton J and Mayr M.
+  TITLE     Extracellular matrix remodelling in response to venous
+            hypertension: proteomics of human varicose veins
+  JOURNAL   Cardiovasc. Res. 110 (3), 419-430 (2016)
+   PUBMED   27068509
+REFERENCE   4  (bases 1 to 1749)
+  AUTHORS   Lieveld M, Bodson E, De Boeck G, Nouman B, Cleton-Jansen AM,
+            Korsching E, Benassi MS, Picci P, Sys G, Poffyn B, Athanasou NA,
+            Hogendoorn PC and Forsyth RG.
+  TITLE     Gene expression profiling of giant cell tumor of bone reveals
+            downregulation of extracellular matrix components decorin and
+            lumican associated with lung metastasis
+  JOURNAL   Virchows Arch. 465 (6), 703-713 (2014)
+   PUBMED   25304290
+  REMARK    GeneRIF: Lumican, decorin and dermatopontin are differentially
+            expressed and may serve as biomarkers for metastatic and recurrent
+            Giant cell tumor of bone
+REFERENCE   5  (bases 1 to 1749)
+  AUTHORS   Krishnaswamy VR, Manikandan M, Munirajan AK, Vijayaraghavan D and
+            Korrapati PS.
+  TITLE     Expression and integrity of dermatopontin in chronic cutaneous
+            wounds: a crucial factor in impaired wound healing
+  JOURNAL   Cell Tissue Res. 358 (3), 833-841 (2014)
+   PUBMED   25260909
+  REMARK    GeneRIF: This study essentially deals with assessing the expression
+            and integrity of an extracellular matrix protein, Dermatopontin
+            (DPT), in chronic cutaneous wounds.
+REFERENCE   6  (bases 1 to 1749)
+  AUTHORS   Pochampally RR, Ylostalo J, Penfornis P, Matz RR, Smith JR and
+            Prockop DJ.
+  TITLE     Histamine receptor H1 and dermatopontin: new downstream targets of
+            the vitamin D receptor
+  JOURNAL   J. Bone Miner. Res. 22 (9), 1338-1349 (2007)
+   PUBMED   17547532
+  REMARK    GeneRIF: roles of dermatopontin and histamine receptor H1 genes as
+            downstream targets for the VDR were confirmed by gel
+            electromotility shift and chromatin immunoprecipitation assays that
+            showed the presence of VDR complex binding sequences
+REFERENCE   7  (bases 1 to 1749)
+  AUTHORS   Kuroda K, Okamoto O and Shinkai H.
+  TITLE     Dermatopontin expression is decreased in hypertrophic scar and
+            systemic sclerosis skin fibroblasts and is regulated by
+            transforming growth factor-beta1, interleukin-4, and matrix
+            collagen
+  JOURNAL   J. Invest. Dermatol. 112 (5), 706-710 (1999)
+   PUBMED   10233760
+REFERENCE   8  (bases 1 to 1749)
+  AUTHORS   Okamoto O, Fujiwara S, Abe M and Sato Y.
+  TITLE     Dermatopontin interacts with transforming growth factor beta and
+            enhances its biological activity
+  JOURNAL   Biochem. J. 337 (PT 3), 537-541 (1999)
+   PUBMED   9895299
+REFERENCE   9  (bases 1 to 1749)
+  AUTHORS   Forbes EG, Cronshaw AD, MacBeath JR and Hulmes DJ.
+  TITLE     Tyrosine-rich acidic matrix protein (TRAMP) is a tyrosine-sulphated
+            and widely distributed protein of the extracellular matrix
+  JOURNAL   FEBS Lett. 351 (3), 433-436 (1994)
+   PUBMED   8082810
+REFERENCE   10 (bases 1 to 1749)
+  AUTHORS   Superti-Furga A, Rocchi M, Schafer BW and Gitzelmann R.
+  TITLE     Complementary DNA sequence and chromosomal mapping of a human
+            proteoglycan-binding cell-adhesion protein (dermatopontin)
+  JOURNAL   Genomics 17 (2), 463-467 (1993)
+   PUBMED   8104875
+COMMENT     VALIDATED REFSEQ: This record has undergone validation or
+            preliminary review. The reference sequence was derived from
+            BP257325.1, BC033736.1 and AI699890.1.
+            On Jun 26, 2010 this sequence version replaced gi:32307171.
+            
+            Summary: Dermatopontin is an extracellular matrix protein with
+            possible functions in cell-matrix interactions and matrix assembly.
+            The protein is found in various tissues and many of its tyrosine
+            residues are sulphated. Dermatopontin is postulated to modify the
+            behavior of TGF-beta through interaction with decorin. [provided by
+            RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: BC033736.1, ERR279853.67.1
+                                           [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-564               BP257325.1         1-564
+            565-1717            BC033736.1         551-1703
+            1718-1749           AI699890.1         1-32                c
+FEATURES             Location/Qualifiers
+     source          1..1749
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="1"
+                     /map="1q24.2"
+     gene            1..1749
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /note="dermatopontin"
+                     /db_xref="GeneID:1805"
+                     /db_xref="HGNC:HGNC:3011"
+                     /db_xref="MIM:125597"
+     exon            1..335
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /inference="alignment:Splign:1.39.8"
+     CDS             31..636
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /note="tyrosine-rich acidic matrix protein"
+                     /codon_start=1
+                     /product="dermatopontin precursor"
+                     /protein_id="NP_001928.2"
+                     /db_xref="CCDS:CCDS1275.1"
+                     /db_xref="GeneID:1805"
+                     /db_xref="HGNC:HGNC:3011"
+                     /db_xref="MIM:125597"
+                     /translation="MDLSLLWVLLPLVTMAWGQYGDYGYPYQQYHDYSDDGWVNLNRQ
+                     GFSYQCPQGQVIVAVRSIFSKKEGSDRQWNYACMPTPQSLGEPTECWWEEINRAGMEW
+                     YQTCSNNGLVAGFQSRYFESVLDREWQFYCCRYSKRCPYSCWLTTEYPGHYGEEMDMI
+                     SYNYDYYIRGATTTFSAVERDRQWKFIMCRMTEYDCEFANV"
+     sig_peptide     31..84
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     85..633
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /product="Dermatopontin"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q07507.2)"
+     misc_feature    85..87
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note=". {ECO:0000250|UniProtKB:P19427}; propagated from
+                     UniProtKB/Swiss-Prot (Q07507.2); other site"
+     misc_feature    97..99
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Sulfotyrosine. {ECO:0000255}; propagated from
+                     UniProtKB/Swiss-Prot (Q07507.2); sulfatation site"
+     misc_feature    106..588
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q07507.2);
+                     Region: 2 X 53-55 AA tandem repeats"
+     misc_feature    238..588
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="propagated from UniProtKB/Swiss-Prot (Q07507.2);
+                     Region: 3 X 6 AA repeats of D-R-[EQ]-W-[NQK]-[FY]"
+     misc_feature    514..516
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Sulfotyrosine. {ECO:0000255}; propagated from
+                     UniProtKB/Swiss-Prot (Q07507.2); sulfatation site"
+     misc_feature    520..522
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Sulfotyrosine. {ECO:0000255}; propagated from
+                     UniProtKB/Swiss-Prot (Q07507.2); sulfatation site"
+     misc_feature    526..528
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Sulfotyrosine. {ECO:0000255}; propagated from
+                     UniProtKB/Swiss-Prot (Q07507.2); sulfatation site"
+     misc_feature    529..531
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Sulfotyrosine. {ECO:0000255}; propagated from
+                     UniProtKB/Swiss-Prot (Q07507.2); sulfatation site"
+     misc_feature    610..612
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /note="Sulfotyrosine. {ECO:0000255}; propagated from
+                     UniProtKB/Swiss-Prot (Q07507.2); sulfatation site"
+     exon            336..461
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /inference="alignment:Splign:1.39.8"
+     exon            462..569
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /inference="alignment:Splign:1.39.8"
+     exon            570..1728
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /inference="alignment:Splign:1.39.8"
+     STS             588..786
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /standard_name="RH36563"
+                     /db_xref="UniSTS:31366"
+     STS             1487..1614
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /standard_name="RH103231"
+                     /db_xref="UniSTS:97563"
+     STS             1496..1668
+                     /gene="DPT"
+                     /gene_synonym="TRAMP"
+                     /standard_name="SHGC-75872"
+                     /db_xref="UniSTS:80307"
+ORIGIN      
+        1 gtgacattgt ttgccaaaat cccaggcagc atggacctca gtcttctctg ggtacttctg
+       61 cccctagtca ccatggcctg gggccagtat ggcgattatg gatacccata ccagcagtat
+      121 catgactaca gcgatgatgg gtgggtgaat ttgaaccggc aaggcttcag ctaccagtgt
+      181 ccccaggggc aggtgatagt ggccgtgagg agcatcttca gcaagaagga aggttctgac
+      241 agacaatgga actacgcctg catgcccacg ccacagagcc tcggggaacc cacggagtgc
+      301 tggtgggagg agatcaacag ggctggcatg gaatggtacc agacgtgctc caacaatggg
+      361 ctggtggcag gattccagag ccgctacttc gagtcagtgc tggatcggga gtggcagttt
+      421 tactgttgtc gctacagcaa gaggtgccca tattcctgct ggctaacaac agaatatcca
+      481 ggtcactatg gtgaggaaat ggacatgatt tcctacaatt atgattacta tatccgagga
+      541 gcaacaacca ctttctctgc agtggaaagg gatcgccagt ggaagttcat aatgtgccgg
+      601 atgactgaat acgactgtga atttgcaaat gtttagattt gccacatacc aaatctgggt
+      661 gaaaggaaag gggccgggga caggagggtg tccacatatg ttaacatcag ttggatctcc
+      721 tatagaagtt tctgctgctc tctttccttc tccctgagct ggtaactgca atgccaactt
+      781 cctgggcctt tctgactagt atcacacttc taataaaatc cacaattaaa ccatgtttct
+      841 cacttttcac atgtttcata gcaactgctt tatatgactg atgatggctt ccttgcacac
+      901 cacatataca gtgcgcatgc ttacagccgg gcttctggag caccagctgc agcctggcta
+      961 ctgcttttta ctgcagaatg aactgcaagt tcagcatagt ggaggggaga ggcagaactg
+     1021 gaggagaggt gcagtgaagg ttctctacag ctaagcctgt ttgaatgata cgtaggttcc
+     1081 ccaccaaaag caggctttct gccctgaggg acatcttccc actcccctgc tccacatgag
+     1141 ccatgcatgc ttagcaatcc aagtgcagag ctctttgctc caggagtgag gagactggga
+     1201 ggtgaaatgg ggaaatggaa gggtttggag gcagagctga aaacagggtt ggaaggattt
+     1261 cctgaattag aagacaaacg ttagcatacc cagtaaggaa aatgagtgca ggggccaggg
+     1321 gaacccgtga ggatcactct caaatgagat taaaaacaag gaagcagaga atggtcagag
+     1381 aatgggattc agattgggaa cttgtgggga tgagagtgac caggttgaac tgggaagtgg
+     1441 aaaaaggagt ttgagtcact ggcacctaga agcctgccca cgattcctag gaaggctggc
+     1501 agacaccctg gaaccctggg gagctactgg caaactctcc tggattgggc ctgatttttt
+     1561 tggtgggaaa ggctgccctg gggatcaact ttccttctgt gtgtggctca ggagttcttc
+     1621 tgcagagatg gcgctatctt tcctcctcct gtgatgtcct gctcccaacc atttgtactc
+     1681 ttcattacaa aagaaataaa aatattaacg ttcactatgc tgaaaataaa aaaaaaaaaa
+     1741 aaaaaaaaa
+//
+
