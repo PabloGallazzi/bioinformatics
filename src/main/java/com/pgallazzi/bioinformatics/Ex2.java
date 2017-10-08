@@ -35,6 +35,7 @@ public class Ex2 {
                 NCBIQBlastOutputProperties outputProperties = new NCBIQBlastOutputProperties();
                 outputProperties.setOutputFormat(BlastOutputFormatEnum.XML);
 
+                //Send the alignment request to NCBI service
                 requestId = service.sendAlignmentRequest(sequence.getSequenceAsString(), alignmentProperties);
                 System.out.println("Waiting for NCBI service to return results for " + file.getName() + " , this can take a while...");
 
@@ -43,11 +44,13 @@ public class Ex2 {
                 }
                 System.out.println("Done!");
 
+                //Get the results
                 final InputStream inputStream = service.getAlignmentResults(requestId, outputProperties);
                 reader = new BufferedReader(new InputStreamReader(inputStream));
                 writer = new FileWriter(new File(OUTPUT_FOLDER + file.getName().replace(FASTA, XML)));
                 String line;
 
+                //Write each line into an XML file
                 while ((line = reader.readLine()) != null) {
                     writer.write(line + System.getProperty(LINE_SEPARATOR));
                 }
