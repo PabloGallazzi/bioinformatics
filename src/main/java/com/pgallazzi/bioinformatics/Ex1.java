@@ -39,9 +39,9 @@ public class Ex1 {
                 outputFASTA.createNewFile();
                 FastaWriterHelper.writeProteinSequence(outputFASTA, proteinSequences);
 
-            } catch (Exception e) {
-                System.out.println("Error getting info from genbank file!" + file.getName());
-                e.printStackTrace();
+            } catch (final Exception exception) {
+                System.out.println("Error running Ex1 for file " + file.getName());
+                exception.printStackTrace();
                 System.exit(100);
             }
         });
