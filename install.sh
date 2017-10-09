@@ -13,6 +13,7 @@ os=null
 if [ $? -eq 0 ]; then
     os="mac"
 else
+    echo "The above error can be SAFELY ignored!"
     os="linux"
 fi
 
