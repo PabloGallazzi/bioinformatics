@@ -16,7 +16,7 @@ public class Ex2Local {
         Arrays.stream(listOfFiles).filter(file -> file.isFile() && file.getName().startsWith(EX2_LOCAL) && file.getName().endsWith(FASTA)).forEach(file -> {
             try {
                 ProcessBuilder builder = new ProcessBuilder();
-                builder.command("./blast/ncbi-blast-2.6.0+/bin/blastp", "-db", "blast/swissprot", "-query", file.getPath(), "-outfmt", "5", "-out", OUTPUT_FOLDER + file.getName().replace(FASTA, XML));
+                builder.command("./blast/ncbi-blast-2.6.0+/bin/" + args[0] + "blastp", "-db", "blast/swissprot", "-query", file.getPath(), "-outfmt", "5", "-out", OUTPUT_FOLDER + file.getName().replace(FASTA, XML));
                 builder.directory(new File("."));
                 Process process = builder.start();
                 System.out.println("Waiting for local blastp to return results for " + file.getName() + " , this can take a while...");

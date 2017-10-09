@@ -3,7 +3,17 @@
 cd blast
 
 if [ -f swissprot ] && [ -f swissprot.phr ] && [ -f swissprot.pin ] && [ -f swissprot.psq ]; then
+    cd ..
     exit 0
+fi
+
+os=null
+./blast/ncbi-blast-2.6.0+/bin/macblastp -h >/dev/null
+
+if [ $? -eq 0 ]; then
+    os="mac"
+else
+    os="linux"
 fi
 
 if [ -f swissprot.gz ]; then
@@ -28,6 +38,6 @@ fi
 
 wget ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/swissprot.gz
 gunzip swissprot.gz
-./ncbi-blast-2.6.0+/bin/makeblastdb -in swissprot -dbtype prot
+./ncbi-blast-2.6.0+/bin/${os}makeblastdb -in swissprot -dbtype prot
 
 cd ..

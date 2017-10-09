@@ -6,9 +6,18 @@ echo "Starting run..."
 
 ./install.sh
 
+os=null
+./blast/ncbi-blast-2.6.0+/bin/macblastp -h >/dev/null
+
+if [ $? -eq 0 ]; then
+    os="mac"
+else
+    os="linux"
+fi
+
 java -jar Ex1-jar-with-dependencies.jar
 java -jar Ex2-jar-with-dependencies.jar
-java -jar Ex2Local-jar-with-dependencies.jar
+java -jar Ex2Local-jar-with-dependencies.jar ${os}
 
 echo "Finishing run..."
 
