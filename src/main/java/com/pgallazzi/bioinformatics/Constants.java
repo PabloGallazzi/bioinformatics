@@ -2,6 +2,10 @@ package com.pgallazzi.bioinformatics;
 
 public interface Constants {
 
+    //Operative systems
+    String MAC = "mac";
+    String LINUX = "linux";
+
     //Exercises...
     String EX1 = "ex1-";
     String EX2 = "ex2-";

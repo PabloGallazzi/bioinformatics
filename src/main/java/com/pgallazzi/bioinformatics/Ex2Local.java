@@ -11,6 +11,11 @@ public class Ex2Local {
 
         System.out.println("Running Ex2Local!!!");
 
+        if (args.length != 1 || (!MAC.equals(args[0]) && !LINUX.equals(args[0]))) {
+            System.out.println("Invalid platform argument, valid platforms are " + MAC + " and " + LINUX + ".");
+            System.exit(100);
+        }
+
         final File[] listOfFiles = new File(INPUT_FOLDER).listFiles() != null ? new File(INPUT_FOLDER).listFiles() : new File[0];
 
         Arrays.stream(listOfFiles).filter(file -> file.isFile() && file.getName().startsWith(EX2_LOCAL) && file.getName().endsWith(FASTA)).forEach(file -> {
