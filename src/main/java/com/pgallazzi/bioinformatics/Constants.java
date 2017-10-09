@@ -2,7 +2,7 @@ package com.pgallazzi.bioinformatics;
 
 public interface Constants {
 
-    //Operative systems
+    //Operating systems
     String MAC = "mac";
     String LINUX = "linux";
 
