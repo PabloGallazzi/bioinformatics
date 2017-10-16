@@ -10,6 +10,7 @@ public interface Constants {
     String EX1 = "ex1-";
     String EX2 = "ex2-";
     String EX2_LOCAL = "ex2_local-";
+    String EX3 = "ex3-";
 
     //Folders...
     String INPUT_FOLDER = "data/input/";
