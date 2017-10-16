@@ -1,5 +1,15 @@
 #!/usr/bin/env bash
 
+echo "Checking internet connectivity"
+wget -q --spider http://google.com
+
+if [ $? -ne 0 ]; then
+    echo "You don't have internet connectivity"
+    exit 100
+else
+    echo "OK!"
+fi
+
 echo "Checking MAVEN"
 mvn -version | head -1 | tr " " "\n" | head -3 | tail -1
 
