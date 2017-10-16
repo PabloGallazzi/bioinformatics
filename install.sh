@@ -8,7 +8,7 @@ if [ -f swissprot ] && [ -f swissprot.phr ] && [ -f swissprot.pin ] && [ -f swis
 fi
 
 os=null
-./blast/ncbi-blast-2.6.0+/bin/macblastp -h >/dev/null
+./ncbi-blast-2.6.0+/bin/macblastp -h > /dev/null
 
 if [ $? -eq 0 ]; then
     os="mac"
