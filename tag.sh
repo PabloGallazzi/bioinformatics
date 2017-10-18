@@ -37,8 +37,8 @@ mkdir bioinformatics
 
 sed '/^.\/check.sh/ d' run.sh  |  sed '/^.\/build.sh/ d' |  sed '/^.\/install.sh/ d' > bioinformatics/run.sh
 
-sed -i '' '11i\
-./ncbi-blast-2.6.0+/bin/${os}makeblastdb -in swissprot -dbtype prot' bioinformatics/run.sh
+sed -i '' '17i\
+./blast/ncbi-blast-2.6.0+/bin/${os}makeblastdb -in swissprot -dbtype prot' bioinformatics/run.sh
 
 chmod +x bioinformatics/run.sh
 
