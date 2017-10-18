@@ -17,6 +17,10 @@ else
     os="linux"
 fi
 
+if [ -f oldswissprot ]; then
+    rm oldswissprot
+fi
+
 if [ -f swissprot.gz ]; then
     rm swissprot.gz
 fi
