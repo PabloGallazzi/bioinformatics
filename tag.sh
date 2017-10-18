@@ -38,14 +38,14 @@ mkdir bioinformatics
 sed '/^.\/check.sh/ d' run.sh  |  sed '/^.\/build.sh/ d' |  sed '/^.\/install.sh/ d' > bioinformatics/run.sh
 
 sed -i '' '17i\
-./blast/ncbi-blast-2.6.0+/bin/${os}makeblastdb -in swissprot -dbtype prot' bioinformatics/run.sh
+./blast/ncbi-blast-2.6.0+/bin/${os}makeblastdb -in blast/swissprot -dbtype prot' bioinformatics/run.sh
 
 chmod +x bioinformatics/run.sh
 
 cp -R blast bioinformatics
 
-if [ -f blast/swissprot.gz ]; then
-    rm blast/swissprot.gz
+if [ -f blast/swissprot ]; then
+    rm blast/swissprot
 fi
 
 cp -R data bioinformatics
