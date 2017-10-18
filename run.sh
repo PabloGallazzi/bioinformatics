@@ -4,9 +4,9 @@
 
 ./build.sh
 
-echo "Starting run..."
-
 ./install.sh
+
+echo "Starting run..."
 
 os=null
 ./blast/ncbi-blast-2.6.0+/bin/macblastp -h >/dev/null
