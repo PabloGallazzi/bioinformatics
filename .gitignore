@@ -19,3 +19,5 @@ data/output/*
 
 blast/*
 !blast/ncbi-blast-2.6.0+
+
+bioinformatics/*

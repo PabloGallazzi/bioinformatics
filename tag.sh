@@ -54,3 +54,5 @@ cp Ex1-jar-with-dependencies.jar bioinformatics
 cp Ex2-jar-with-dependencies.jar bioinformatics
 cp Ex2Local-jar-with-dependencies.jar bioinformatics
 cp Ex3-jar-with-dependencies.jar bioinformatics
+
+env GZIP=-9 tar cvzf bioinformatics.tar.gz bioinformatics
