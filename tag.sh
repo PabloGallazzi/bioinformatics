@@ -28,6 +28,7 @@ fi
 
 wget ftp://ftp.ncbi.nlm.nih.gov/blast/db/FASTA/swissprot.gz
 gunzip swissprot.gz
+mv swissprot oldswissprot
 
 cd ..
 
@@ -38,7 +39,16 @@ mkdir bioinformatics
 sed '/^.\/check.sh/ d' run.sh  |  sed '/^.\/build.sh/ d' |  sed '/^.\/install.sh/ d' > bioinformatics/run.sh
 
 sed -i '' '17i\
-./blast/ncbi-blast-2.6.0+/bin/${os}makeblastdb -in blast/swissprot -dbtype prot' bioinformatics/run.sh
+rm blast/swissprot*
+' bioinformatics/run.sh
+
+sed -i '' '18i\
+cp blast/oldswissprot blast/swissprot
+' bioinformatics/run.sh
+
+sed -i '' '19i\
+./blast/ncbi-blast-2.6.0+/bin/${os}makeblastdb -in blast/swissprot -dbtype prot
+' bioinformatics/run.sh
 
 chmod +x bioinformatics/run.sh
 
@@ -50,9 +60,9 @@ fi
 
 cp -R data bioinformatics
 
-cp Ex1-jar-with-dependencies.jar bioinformatics
-cp Ex2-jar-with-dependencies.jar bioinformatics
-cp Ex2Local-jar-with-dependencies.jar bioinformatics
-cp Ex3-jar-with-dependencies.jar bioinformatics
+mv Ex1-jar-with-dependencies.jar bioinformatics
+mv Ex2-jar-with-dependencies.jar bioinformatics
+mv Ex2Local-jar-with-dependencies.jar bioinformatics
+mv Ex3-jar-with-dependencies.jar bioinformatics
 
 env GZIP=-9 tar cvzf bioinformatics.tar.gz bioinformatics
