@@ -21,6 +21,7 @@ public interface Constants {
     String GB = ".gb";
     String FASTA = ".fasta";
     String XML = ".xml";
+    String TXT = ".txt";
 
     //Others...
     String SWISSPROT = "swissprot";
