@@ -22,6 +22,8 @@ java -jar Ex1-jar-with-dependencies.jar
 java -jar Ex2-jar-with-dependencies.jar
 java -jar Ex2Local-jar-with-dependencies.jar ${os}
 java -jar Ex3-jar-with-dependencies.jar
+java -jar Ex4-jar-with-dependencies.jar QYHDYSDDGWVNLNRQGFSYQCPQGQVIVAVRSIF
+java -jar Ex4-jar-with-dependencies.jar +K+++PR+KL
 
 echo "Finishing run..."
 

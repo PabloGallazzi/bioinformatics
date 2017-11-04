@@ -22,6 +22,11 @@ mvn clean >/dev/null
 mvn clean compile assembly:single -Dexercise=Ex3 >/dev/null
 mv target/Ex3-jar-with-dependencies.jar . >/dev/null
 
+echo "Starting build for exercise 4, this can take a while..."
+mvn clean >/dev/null
+mvn clean compile assembly:single -Dexercise=Ex4 >/dev/null
+mv target/Ex4-jar-with-dependencies.jar . >/dev/null
+
 echo "Cleaning build folder"
 mvn clean >/dev/null
 
